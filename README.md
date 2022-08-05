@@ -42,7 +42,3 @@ Project uses a RESTful API to GET, POST, UPDATE and DELETE required data
 @2022
 
 
-
-git add .
-git commit -m "updating readme"
-git push origin main
