@@ -19,7 +19,7 @@ const AddTask = ({onAdd, on}) => {
         setReminder(false)
         setDay('')
     } 
-  return (
+  return (  
     <form className='add-form' onSubmit={onSubmit}>
       <div className='form-control'>
           <label>Task</label>
