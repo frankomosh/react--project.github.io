@@ -5,7 +5,7 @@
       "name":"Task A",
       "semMenu":"Important",
       "desc":"Task A description"
-    },
+    }, 
     {
       "id":5,
       "name":"Task B",
