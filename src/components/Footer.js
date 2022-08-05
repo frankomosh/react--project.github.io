@@ -5,7 +5,7 @@ const Footer = () => {
     <footer>
       <p>copyright &copy; 2022</p>
     </footer>
-  )
+  ) 
 }
 
 export default Footer
